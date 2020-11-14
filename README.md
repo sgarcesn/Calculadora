@@ -9,7 +9,7 @@ Widgets Utilizados:
   1. ProgressBar
   2. Barra Desplegable de Menú
   3. Messagebox
-Para usar estos Widgets es necesario importar:
+*Para usar estos Widgets es necesario importar:
   1. import tkinter as tk
   2. from tkinter import ttk
   3. from tkinter import *
