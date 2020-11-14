@@ -18,4 +18,5 @@ Para usar estos Widgets es necesario importar:
   6. from tkinter import messagebox
 
 ![Imagen De La Calculadora](/Calculadora/Imagenes/Taller TK img 1.png)
+
 ![Imagen De La Calculadora](/Calculadora/Imagenes/Taller TK img 2.png)
