@@ -6,13 +6,16 @@ Sergio Octavio Garcés Nieto
 Librerías utilizadas:
   -TkInter
 Widgets Utilizados:
-  -ProgressBar
-  -Barra Desplegable de Menú
-  -Messagebox
+  1. ProgressBar
+  2. Barra Desplegable de Menú
+  3. Messagebox
 Para usar estos Widgets es necesario importar:
-  -import tkinter as tk
-  -from tkinter import ttk
-  -from tkinter import *
-  -from tkinter.ttk import Progressbar
-  -from tkinter import Menu
-  -from tkinter import messagebox
+  1. import tkinter as tk
+  2. from tkinter import ttk
+  3. from tkinter import *
+  4. from tkinter.ttk import Progressbar
+  5. from tkinter import Menu
+  6. from tkinter import messagebox
+
+![Imagen De La Calculadora](/Calculadora/Imagenes/Taller TK img 1.png)
+![Imagen De La Calculadora](/Calculadora/Imagenes/Taller TK img 2.png)
